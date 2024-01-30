@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0.5em;
+    background-color: rgb(1, 7, 58);
+}
+.navbar{
+    background-color:  rgb(8, 1, 41); 
+    margin-bottom: 2rem;
+    list-style-type: none;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.nav-link active{
+    color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+}
+
+#land .card{
+    background-color: rgb(1, 7, 58);
+    color: aliceblue;
+    padding: 2rem;
+    margin: 5rem;
+}
+#me .about{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(8, 1, 41);
+    padding: 5rem;
+}
+#project .projects{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(1, 7, 58);
+    padding: 5rem;
+}
+#Contacts .contact {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(8, 1, 41);
+    padding: 5rem;
+}
+footer {
+    color: aliceblue;
+    background-color: rgb(8, 1, 41);
+    padding: 0.7rem;
+}
+footer span {
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
